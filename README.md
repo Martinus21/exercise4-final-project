@@ -2,5 +2,8 @@
 
 Menggunakan : »	HTML »	CSS »	JS » Bootstrap » JQuery
 
+Modal : Navbar
+Slide : About Us
+
 Link review : https://martinus21.github.io/exercise4-final-project/
 Link review : https://exercise4-final-project.netlify.com/
