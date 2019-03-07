@@ -105,4 +105,7 @@ footer {
 .contact .btnSubmit {
   margin-bottom: 30px;
 }
+.embed-responsive-100x400px{
+  padding-bottom: 400px;
+}
 /* END CONTACT */
