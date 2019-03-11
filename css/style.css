@@ -109,3 +109,9 @@ footer {
   padding-bottom: 400px;
 }
 /* END CONTACT */
+
+
+/* STYLE FRONT-END-PAGE */
+.container-front-end-page {
+  margin: 10px auto 80px;
+}
